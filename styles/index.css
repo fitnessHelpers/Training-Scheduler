@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Consolas, Arial, Helvetica, sans-serif;
+    height: 100vh;
+  }
+
+  * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+  }
