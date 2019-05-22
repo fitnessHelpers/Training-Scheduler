@@ -1,5 +1,135 @@
 {
-    "dayOfWeek": [
+    "monday": [
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        }
+    ],
+    "tuesday": [
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        }
+    ],
+    "thursday": [
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        }
+    ],
+    "friday": [
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
+        {
+            "excesiceName": "<string>",
+            "excesiceReiterations": "<number>"
+        },
         {
             "excesiceName": "<string>",
             "excesiceReiterations": "<number>"
