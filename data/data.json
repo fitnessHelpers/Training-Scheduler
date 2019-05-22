@@ -1,138 +1,44 @@
 {
     "monday": [
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Кардио-тренировка",
+            "excesiceReiterations": "10 минут",
+            "excesiceRepeats": 1
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Гиперэкстензии",
+            "excesiceReiterations": 15,
+            "excesiceRepeats": 3
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Приседания со штангой",
+            "excesiceReiterations": 6,
+            "excesiceRepeats": 5
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Разгибание ног на тренажере",
+            "excesiceReiterations": 15,
+            "excesiceRepeats": 4
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Сгибания ног, лежа на тренажере",
+            "excesiceReiterations": 15,
+            "excesiceRepeats": 4
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Голень стоя в гаке",
+            "excesiceReiterations": 20,
+            "excesiceRepeats": 4
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Бицепс стоя в тренажере",
+            "excesiceReiterations": 15,
+            "excesiceRepeats": 4
         },
         {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        }
-    ],
-    "tuesday": [
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        }
-    ],
-    "thursday": [
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        }
-    ],
-    "friday": [
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
-        },
-        {
-            "excesiceName": "<string>",
-            "excesiceReiterations": "<number>"
+            "excesiceName": "Французкий жим широким хватом",
+            "excesiceReiterations": 15,
+            "excesiceRepeats": 4
         }
     ]
 }
