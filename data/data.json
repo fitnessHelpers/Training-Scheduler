@@ -1,0 +1,8 @@
+{
+    "dayOfWeek": [
+        {
+            "excesiceName": "name",
+            "excesiceReiterations": "number"
+        }
+    ]
+}
