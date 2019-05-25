@@ -1,12 +1,9 @@
 import React from 'react';
+import Main from './components';
+import data from '../data/data.json';
 
 const App = () => {
-  return (
-    <div className="App">
-      <h1> 🚴 Training scheduler is under development! 🚴 </h1>
-      <p> Coming soon! </p>
-    </div>
-  );
+  return <Main data={data} />;
 };
 
 export default App;
